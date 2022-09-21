@@ -1,24 +1,29 @@
-Welcome to Lumache's documentation!
+Release Notes for version 2.4.3
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+ВЕРСИЯ СБОРКИ
+_______________________________
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Версия  SafeInspect - 2.4.3.2959.
+Предыдущая версия: 2.4.3.808. С основными изменениями данной версии можно ознакомиться  в разделе Release Notes по ссылке:  https://www.newinfosec.ru/support/safeinspect/release-notes
+
+ОБЗОР ВЕРСИИ
+_______________________________
+
+Добавлен ряд улучшений работы продукта: обновлен дизайн, ускорена работа сервисов, добавлена возможность переустановки системы через инсталлятор, улучшена работа поиска, расширены возможности сервисов и защитные ограничения во время первичной инсталляции и установки обновлений. Устранены различные ошибки работы программного обеспечения.
 
 .. note::
 
-   This project is under active development.
-   
-   Документация Lumache размещена на Read the Docs.
+   Используйте инструкцию «SafeInspect_Инструкция_по_установке_2_4_3_2959+.pdf», соответствующую данной версии продукта.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   НОВАЯ ФУНКЦИОНАЛЬНОСТЬ
+   УЛУЧШЕНИЯ
+   ИСПРАВЛЕННЫЕ ОШИБКИ
+   СИСТЕМНЫЕ ТРЕБОВАНИЯ
+   ПОРЯДОК ИНСТАЛЛЯЦИИ И ОСОБЕННОСТИ ОБНОВЛЕНИЯ ПРОДУКТА ДО ТЕКУЩЕЙ ВЕРСИИ
+ 
