@@ -5,9 +5,7 @@ Release Notes for version 2.4.3
 _______________________________
 
 Версия  SafeInspect - 2.4.3.2959.
-
 Предыдущая версия: 2.4.3.808. 
-
 С основными изменениями данной версии можно ознакомиться  в разделе Release Notes по ссылке:  https://www.newinfosec.ru/support/safeinspect/release-notes
 
 ОБЗОР ВЕРСИИ
@@ -25,7 +23,7 @@ Contents
 
 .. toctree::
 
-   НОВАЯ ФУНКЦИОНАЛЬНОСТЬ
+   НОВАЯ ФУНКЦИОНАЛЬНОСТЬ (https://github.com/Xenia11rus/NTB/blob/bdc76597bed979bb797175583bf56684264c3011/docs/source/%D0%9D%D0%9E%D0%92%D0%90%D0%AF%20%D0%A4%D0%A3%D0%9D%D0%9A%D0%A6%D0%98%D0%9E%D0%9D%D0%90%D0%9B%D0%AC%D0%9D%D0%9E%D0%A1%D0%A2%D0%AC)
    УЛУЧШЕНИЯ
    ИСПРАВЛЕННЫЕ ОШИБКИ
    СИСТЕМНЫЕ ТРЕБОВАНИЯ
