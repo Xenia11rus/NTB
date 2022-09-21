@@ -109,7 +109,7 @@ Release Notes for version 2.4.3
 
    Ранее сгенерированные видеофайлы сессий необходимо перенести на ваше локальное хранилище и удалить их из Менеджера видео.
 
-.. figure:: https://github.com/Xenia11rus/NTB/blob/039c227257ddf0b0e800e83cc1e5da0b9f1a434b/docs/source/modul.png
+.. figure:: https://github.com/Xenia11rus/NTB/blob/039c227257ddf0b0e800e83cc1e5da0b9f1a434b/docs/source/modul.png?raw=true
    :width: 80%
    :align: center
    :alt: Рисунок 1. Модуль статистики
