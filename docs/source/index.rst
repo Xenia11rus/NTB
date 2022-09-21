@@ -5,7 +5,10 @@ Release Notes for version 2.4.3
 _______________________________
 
 Версия  SafeInspect - 2.4.3.2959.
-Предыдущая версия: 2.4.3.808. С основными изменениями данной версии можно ознакомиться  в разделе Release Notes по ссылке:  https://www.newinfosec.ru/support/safeinspect/release-notes
+
+Предыдущая версия: 2.4.3.808. 
+
+С основными изменениями данной версии можно ознакомиться  в разделе Release Notes по ссылке:  https://www.newinfosec.ru/support/safeinspect/release-notes
 
 ОБЗОР ВЕРСИИ
 _______________________________
