@@ -1,4 +1,4 @@
-Release Notes for version 2.4.3
+RELEASE NOTES FOR VERSION 2.4.3
 ===================================
 
 ВЕРСИЯ СБОРКИ
