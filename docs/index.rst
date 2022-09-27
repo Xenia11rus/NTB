@@ -8,6 +8,7 @@ TECHNICAL KNOWLEDGE CENTER NTB
 
 .. toctree::
   :maxdepth: 2
-  :caption: ИНСТРУКЦИЯ ПО ЭКСПОРТУ И ИМПОРТУ СЕССИЙ
+  :caption: ИНСТРУКЦИЯ ПО ЭКСПОРТУ 
+  И ИМПОРТУ СЕССИЙ
 
   instruction
