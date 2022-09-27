@@ -1,14 +1,14 @@
-Центр Технических знаний (ЦТЗ) НТБ
+TECHNICAL KNOWLEDGE CENTER NTB
 =================================
 
 .. toctree::
   :maxdepth: 1
-  :caption: SafeInspect Release Notes
+  :caption: SAFEINSPECT RELEASE NOTES
   
   newReleases
   
 .. toctree::
   :maxdepth: 2
-  :caption: Инструкция по импорту и экспорту сессий
+  :caption: ИНСТРУКЦИЯ ПО ЭКСПОРТУ И ИМПОРТУ СЕССИЙ
   
   instruction
