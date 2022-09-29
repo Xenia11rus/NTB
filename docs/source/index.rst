@@ -1,11 +1,11 @@
-TECHNICAL KNOWLEDGE CENTER NTB
+ЦЕНТР ТЕХНИЧЕКИХ ЗНАНИЙ SAFEINSPECT
 ================================
 
 
 
 .. toctree::
   :maxdepth: 1
-  :caption: SAFEINSPECT RELEASE NOTES
+  :caption: ОБНОВЛЕНИЯ СИСТЕМЫ
 
   newReleases
 
