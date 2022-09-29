@@ -13,7 +13,8 @@
   :maxdepth: 2
   :caption: ИНСТРУКЦИИ
 
-  instruction
+  instructionExport
+  instructionBackUp
 
 .. toctree::
   :maxdepth: 2
