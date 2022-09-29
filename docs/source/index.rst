@@ -11,6 +11,12 @@
 
 .. toctree::
   :maxdepth: 2
-  :caption: ИНСТРУКЦИЯ ПО ЭКСПОРТУ И ИМПОРТУ СЕССИЙ
+  :caption: ИНСТРУКЦИИ
 
   instruction
+
+.. toctree::
+  :maxdepth: 2
+  :caption: РУКОВОДСТВО АДМИНИСТРАТОРА
+
+  adminguide
